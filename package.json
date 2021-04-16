@@ -1,0 +1,21 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getpostsapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ukane-philemon/nodejstest"
+  },
+  "keywords": [
+    "postapi"
+  ],
+  "author": "ukane philemon",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
